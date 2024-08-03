@@ -1,1 +1,0 @@
-{"name":"Local: Bai1A","url":"e:\\Source_Code\\ICPC\\Contest1\\Bai1A.cpp","tests":[{"id":1721537558857,"input":"abcdef\n3\n1 2 3","output":"fbdcea"},{"id":1721537575769,"input":"aabcde\n2\n2 2","output":"aabcde"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Source_Code\\ICPC\\Contest1\\Bai1A.cpp","group":"local","local":true}

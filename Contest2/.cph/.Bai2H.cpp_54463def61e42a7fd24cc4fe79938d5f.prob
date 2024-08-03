@@ -1,1 +1,0 @@
-{"name":"Local: Bai2H","url":"e:\\Source_Code\\ICPC\\Contest2\\Bai2H.cpp","tests":[{"id":1722222321160,"input":"4\n1 3 4 2","output":"3\n3 4 5"},{"id":1722222441465,"input":"1\n4","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Source_Code\\ICPC\\Contest2\\Bai2H.cpp","group":"local","local":true}
