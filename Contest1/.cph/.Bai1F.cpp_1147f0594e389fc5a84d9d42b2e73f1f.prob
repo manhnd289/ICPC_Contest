@@ -1,0 +1,1 @@
+{"name":"Local: Bai1F","url":"e:\\Source_Code\\ICPC\\Contest1\\Bai1F.cpp","tests":[{"id":1721552666609,"input":"4\n1 2 3 4 5\n1 2 4 20 8\n20 9 8 7 6\n150 160 170 180 190","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Source_Code\\ICPC\\Contest1\\Bai1F.cpp","group":"local","local":true}
